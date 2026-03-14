@@ -1,2 +1,2 @@
-echo "Nesto"
+echo "Izvicnik"
 echo "fqnfnqwoif"
